@@ -33,7 +33,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Your Name - [alimdarrm@gmail.com](mailto:alimdarrm@gmail.com)
+Alimdar - [alimdarrm@gmail.com](mailto:alimdarrm@gmail.com)
 
 Project Link: [https://github.com/Alimddar/NestTableMaster](https://github.com/Alimddar/NestTableMaster)
 
